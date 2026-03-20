@@ -88,7 +88,9 @@ p {
 .content li:last-child {
     border-bottom: none;
 }
-
+address {
+    margin-left: 5px;
+}
 .contact {
     padding: 30px;
     background-color: #2a2b32;
